@@ -81,7 +81,7 @@ If you want to contribute, feel free to fork the repository and submit a pull re
 Feel free to reach out if you have any questions or suggestions:
 
 - Email: caman6709@gmail.com
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/AmanChoudhary1
 
 
 
