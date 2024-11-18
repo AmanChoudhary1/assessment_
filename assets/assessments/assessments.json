@@ -1,0 +1,92 @@
+{
+  "categories": [
+    {
+      "category": "Anxiety",
+      "icon": "https://cdn-icons-png.flaticon.com/512/10371/10371469.png",
+      "quizzes": "15 Quizzes"
+    },
+    {
+      "category": "Depression",
+      "icon": "https://cdn-icons-png.freepik.com/256/8775/8775176.png",
+      "quizzes": "5 Quizzes"
+    },
+    {
+      "category": "ADHD",
+      "icon": "https://cdn-icons-png.flaticon.com/512/10371/10371469.png",
+      "quizzes": "10 Quizzes"
+    },
+    {
+      "category": "Autism",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1491/1491474.png",
+      "quizzes": "3 Quizzes"
+    }
+  ],
+  "top_picks": [
+    {
+      "title": "Test - 8 min",
+      "subtitle": "Personality Test",
+      "image": "https://picsum.photos/",
+      "description": "Discover your unique characteristics & understand yourself better."
+    },
+    {
+      "title": "Test - 20 min",
+      "subtitle": "Educational Assessments",
+      "image": "https://picsum.photos/",
+      "description": "Boost your knowledge with these quizzes."
+    },
+    {
+      "title": "Test - 18 min",
+      "subtitle": "Health Assessments",
+      "image": "https://picsum.photos/",
+      "description": "Take these assessments to improve your health."
+    },{
+      "title": "Test - 8 min",
+      "subtitle": "Personality Test",
+      "image": "https://picsum.photos/",
+      "description": "Discover your unique characteristics & understand yourself better."
+    },
+    {
+      "title": "Test - 20 min",
+      "subtitle": "Educational Assessments",
+      "image": "https://picsum.photos/",
+      "description": "Boost your knowledge with these quizzes."
+    },
+    {
+      "title": "Test - 18 min",
+      "subtitle": "Health Assessments",
+      "image": "https://picsum.photos/",
+      "description": "Take these assessments to improve your health."
+    }
+  ],
+  "recently_taken": [
+    {
+      "title": "Social Anxiety Test",
+      "image": "https://picsum.photos/",
+      "date_taken": "2024-11-10"
+    },
+    {
+      "title": "Psynchopathy Test",
+      "image": "https://picsum.photos/",
+      "date_taken": "2024-11-12"
+    },
+    {
+      "title": "Postpartum Depression Quiz",
+      "image": "https://picsum.photos/",
+      "date_taken": "2024-11-12"
+    },{
+      "title": "Social Anxiety Test",
+      "image": "https://picsum.photos/",
+      "date_taken": "2024-11-10"
+    },
+    {
+      "title": "Psynchopathy Test",
+      "image": "https://picsum.photos/",
+      "date_taken": "2024-11-12"
+    },
+    {
+      "title": "Postpartum Depression Quiz",
+      "image": "https://picsum.photos/",
+      "date_taken": "2024-11-12"
+    }
+  ]
+}
